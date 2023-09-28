@@ -1,0 +1,65 @@
+USD
+date 18/09/2022
+rate 0.67
+change -
+date 17/09/2022
+rate 0.67
+change ↓ (D)
+date 16/09/2022
+rate 0.67
+change -
+
+EUR
+date 18/09/2022
+rate 0.67
+change -
+date 17/09/2022
+rate 0.67
+change ↑ (I)
+date 16/09/2022
+rate 0.66
+change -
+
+GBP
+date 18/09/2022
+rate 0.59
+change -
+date 17/09/2022
+rate 0.59
+change ↑ (I)
+date 16/09/2022
+rate 0.59
+change -
+
+INR
+date 18/09/2022
+rate 53.51
+change ↓ (D)
+date 17/09/2022
+rate 53.54
+change ↑ (I)
+date 16/09/2022
+rate 53.34
+change -
+
+CAD
+date 18/09/2022
+rate 0.89
+change -
+date 17/09/2022
+rate 0.89
+change ↑ (I)
+date 16/09/2022
+rate 0.89
+change -
+
+NZD
+date 18/09/2022
+rate 1.12
+change -
+date 17/09/2022
+rate 1.12
+change ↓ (D)
+date 16/09/2022
+rate 1.12
+change -

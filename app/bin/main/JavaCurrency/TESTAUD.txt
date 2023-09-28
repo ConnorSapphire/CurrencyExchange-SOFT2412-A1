@@ -1,0 +1,164 @@
+
+TESTUSD
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 10
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0001
+rate 1.2
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 
+date 01/01/0000
+rate 0.1
+change 

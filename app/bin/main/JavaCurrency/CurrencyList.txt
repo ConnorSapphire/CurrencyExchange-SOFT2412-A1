@@ -1,0 +1,7 @@
+AUD
+USD
+CAD
+INR
+EUR
+NZD
+GBP
